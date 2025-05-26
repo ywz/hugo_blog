@@ -29,10 +29,10 @@ theme = 'PaperMod'
   #   url = '/search'
   #   weight = 50
 
-[module]
-  [module.hugoVersion]
-    extended = false
-    min = '0.146.0'
+# [module]
+#   [module.hugoVersion]
+#     extended = false
+#     min = '0.146.0'
 
 paginate = 5
 
@@ -48,7 +48,7 @@ buildExpired = false
 [params]
   env = "production"
   title = "Sevono"
-  description = "ExampleSite description"
+  description = "My Personal Blog, pourover coffee, photography, AI, technology, and more"
   keywords = ["Blog", "Portfolio"]
   author = ""
   # author = ["Me", "You"] # 多作者写法
