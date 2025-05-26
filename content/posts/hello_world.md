@@ -9,7 +9,7 @@ hello world
 
 ``` json
 {
-    'hello': "world"
+    "hello": "world"
 }
 
 ```
