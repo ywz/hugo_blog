@@ -85,7 +85,7 @@ buildExpired = false
   [params.label]
     text = "Sevono"
     icon = "/icons/hubot-svgrepo-com.svg"
-    iconHeight = 35
+    iconHeight = 30
 
   [params.profileMode]
     enabled = false

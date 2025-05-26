@@ -61,7 +61,7 @@ h6:hover .anchor {
 }
 
 /* Add [] to footnote-ref and remove url underline */
-a.footnote-ref {
+/* a.footnote-ref {
   box-shadow: none;
 }
 a.footnote-ref::before {
@@ -69,4 +69,4 @@ a.footnote-ref::before {
 }
 a.footnote-ref::after {
   content: "]";
-}
+} */
