@@ -1,7 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog.777000.best/'
 languageCode = 'en-us'
-title = 'sevono'
-theme = 'base'
+title = 'Sevono'
+theme = 'PaperMod'
 
 [menus]
   [[menus.main]]
@@ -18,8 +18,18 @@ theme = 'base'
     name = 'Tags'
     pageRef = '/tags'
     weight = 30
+    
+  [[menus.main]]
+    name = 'RSS'
+    url = '/index.xml'
+    weight = 40
 
 [module]
   [module.hugoVersion]
     extended = false
     min = '0.146.0'
+
+[markup]
+  [markup.highlight]
+      noClasses=false
+      tabWidth =2
