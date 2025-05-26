@@ -60,7 +60,7 @@ buildExpired = false
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
-  ShowBreadCrumbs = true
+  ShowBreadCrumbs = false
   ShowCodeCopyButtons = false
   ShowWordCount = false
   ShowRssButtonInSectionTermList = true
@@ -129,10 +129,10 @@ buildExpired = false
     hiddenInList = true
     hiddenInSingle = true
 
-  [params.editPost]
-    URL = "https://github.com/ywz/hugo_blog/content"
-    Text = "Suggest Changes"
-    appendFilePath = true
+  # [params.editPost]
+  #   URL = "https://github.com/ywz/hugo_blog/content"
+  #   Text = "Suggest Changes"
+  #   appendFilePath = false
 
   [params.fuseOpts]
     isCaseSensitive = false
