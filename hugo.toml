@@ -24,10 +24,10 @@ theme = 'PaperMod'
     url = '/index.xml'
     weight = 40
 
-  [[menus.main]]
-    name = 'search'
-    url = '/search'
-    weight = 50
+  # [[menus.main]]
+  #   name = 'search'
+  #   url = '/search'
+  #   weight = 50
 
 [module]
   [module.hugoVersion]
@@ -54,8 +54,8 @@ buildExpired = false
   # author = ["Me", "You"] # 多作者写法
   images = ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat = "January 2, 2006"
-  defaultTheme = "auto"
-  disableThemeToggle = false
+  defaultTheme = "light"
+  disableThemeToggle = true
 
   ShowReadingTime = true
   ShowShareButtons = false
