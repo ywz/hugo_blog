@@ -1,0 +1,16 @@
+.paginav {
+    background: transparent;
+    border: none;
+}
+
+.paginav .next:hover,
+.paginav .prev:hover {
+    background: transparent;
+    color: var(--primary);
+    transition: var(--link-transition);
+}
+
+.paginav .next:focus,
+.paginav .prev:focus {
+    outline: none;
+}
