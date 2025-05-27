@@ -76,7 +76,7 @@ buildExpired = false
   [params.assets]
     # disableHLJS = true
     # disableFingerprinting = true
-    favicon = "/icons/hubot-svgrepo-com.svg"
+    favicon = "/icons/hubot.svg"
     favicon16x16 = "<link / abs url>"
     favicon32x32 = "<link / abs url>"
     apple_touch_icon = "<link / abs url>"
@@ -84,8 +84,8 @@ buildExpired = false
 
   [params.label]
     text = "Sevono"
-    icon = "/icons/hubot-svgrepo-com.svg"
-    iconHeight = 30
+    icon = "/icons/hubot.svg"
+    iconHeight = 27
 
   [params.profileMode]
     enabled = false
