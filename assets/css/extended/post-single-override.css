@@ -18,6 +18,7 @@
 .paginav {
     background: transparent;
     border: none;
+    margin-top: 39px;
 }
 
 .paginav .next:hover,
