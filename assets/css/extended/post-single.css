@@ -1,3 +1,20 @@
+.post-title {
+    margin-bottom: 2px;
+    font-size: 31px;
+}
+
+.post-content h1 {
+  font-size: 26px;
+}
+
+.post-content h2 {
+  font-size: 22px;
+}
+
+.post-content h3 {
+  font-size: 18px;
+}
+
 .paginav {
     background: transparent;
     border: none;
