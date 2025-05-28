@@ -156,9 +156,3 @@ tabWidth = 2
 # lineNos = true
 # style = "monokai"
 
-
-[params.vercel_analytics]
-enable = true
-
-[params.vercel_speed_insights]
-enable = true
