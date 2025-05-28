@@ -13,16 +13,16 @@ tags = ['linkblog']
 [Any recommendations for travel kit?](https://www.reddit.com/r/pourover/comments/1ku5g8y/any_recommendations_for_travel_kit/)
 
 提到了一些适合旅行的手冲咖啡设备：
-- Hario Drip Assist - 很有兴趣尝试一下
-- Hario Suiren
-- Aeropress
-- The Pakt Coffee Kit
-- tetra drip
+1. Hario Drip Assist - 很有兴趣尝试一下
+1. Hario Suiren
+1. Aeropress
+1. The Pakt Coffee Kit
+1. tetra drip
 
 我的旅行咖啡设备:
-- Aeropress go
-- 汉匠 P0
-- 山姆的飞利浦便携电热杯
+1. Aeropress go
+1. 汉匠 P0
+1. 山姆的飞利浦便携电热杯
 
 最重要的还是带一罐上好的咖啡豆。
 
