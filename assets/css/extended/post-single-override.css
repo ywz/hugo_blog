@@ -1,34 +1,3 @@
-.post-title {
-    margin-bottom: 2px;
-    font-size: 31px;
-}
-
-.post-content h1 {
-  font-size: 26px;
-}
-
-.post-content h2 {
-  font-size: 22px;
-}
-
-.post-content h3 {
-  font-size: 18px;
-}
-
 .paginav {
     background: transparent;
-    border: none;
-    margin-top: 39px;
-}
-
-.paginav .next:hover,
-.paginav .prev:hover {
-    background: transparent;
-    color: var(--primary);
-    transition: var(--link-transition);
-}
-
-.paginav .next:focus,
-.paginav .prev:focus {
-    outline: none;
 }
