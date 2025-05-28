@@ -1,6 +1,6 @@
 +++
 date = '2025-05-27T19:45:53+08:00'
-title = 'linkblog 2025-05-27'
+title = 'linkblog 250527'
 tags = ['linkblog']
 +++
 
