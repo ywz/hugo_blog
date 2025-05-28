@@ -14,7 +14,7 @@ tags = ['linkblog']
 - [你可以选择让你快乐的工具](https://borretti.me/article/you-can-choose-tools-that-make-you-happy)
 > 如果一个工具能让你感到快乐，那就足够了。
 
-我坚持用 neovim，尽管折腾的时间远远超过实际的使用时间。
+我坚持用 neovim，折腾的时间远远超过实际的使用时间。
 
 ---
 
