@@ -4,7 +4,9 @@
         {{- if site.Copyright }}
         <span>{{ site.Copyright | markdownify }}</span>
         {{- else }}
-        <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a>  is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/legalcode">CC BY-NC-SA 3.0 CN</a></span>
+        <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a> </span>
+        {{- print " · "}}
+        <span>本站内容采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/legalcode">CC BY-NC-SA 3.0 CN</a> 协议授权</span>
         {{- end }}
         {{- print " · "}}
     {{- end }}
