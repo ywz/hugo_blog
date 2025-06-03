@@ -1,6 +1,6 @@
 +++
 date = '2025-05-29T19:23:28+08:00'
-title = 'Linkblog 250529'
+title = 'Linkblog_250529'
 tags = ['Linkblog']
 +++
 
@@ -8,13 +8,13 @@ tags = ['Linkblog']
 
 AI 辅助编程时代，全面覆盖的测试可以降低使用 LLMs 的风险。
 
-- 
+---
 
 [At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html)
 
 > 快速原型制作一直是我的一项关键技能。我喜欢将想法的半成品图示原型带到会议中----我的经验是，有了具体的东西供人们讨论，对话的质量会提升一个数量级。
 
-- 
+---
 
 [Drinking Sugar Is Worse Than Eating It for Diabetes and Now We Know Why](https://www.zmescience.com/medicine/drinking-sugar-is-worse-than-eating-it-for-diabetes-and-now-we-know-why/)
 

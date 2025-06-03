@@ -1,6 +1,6 @@
 +++
 date = '2025-05-28T20:06:48+08:00'
-title = 'Linkblog 250528'
+title = 'Linkblog_250528'
 tags = ['linkblog']
 +++
 
@@ -8,7 +8,7 @@ tags = ['linkblog']
 
 吉野家 (Yoshinoya) 的历史
 
-- 
+---
 
 [Any recommendations for travel kit?](https://www.reddit.com/r/pourover/comments/1ku5g8y/any_recommendations_for_travel_kit/)
 
@@ -26,13 +26,13 @@ tags = ['linkblog']
 
 最重要的还是带一罐上好的咖啡豆。
 
-- 
+---
 
 [Decap](https://decapcms.org/)
 
 开源内容管理， hugo 后台
 
-- 
+---
 
 [He Has Powered His House for 8 Years Using Laptop Batteries](https://3dvf.com/en/he-has-powered-his-house-for-8-years-using-laptop-batteries/)
 
